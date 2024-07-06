@@ -1,0 +1,88 @@
+*{
+   margin: 0;
+   padding: 0;
+ body{
+    margin: 7px;
+    background-color: gray;
+}
+.menu{
+    height: 15px;
+   padding: 15px;
+    background: #000;
+    text-transform: capitalize;
+    
+    
+}
+a{
+    color:rgb(115, 111, 120);
+    text-decoration: none;
+    
+}
+li{
+    float: left;
+    list-style: none;
+    margin-right: 30px;
+}
+ a:hover{
+    background-color: rgba(13, 12, 13, 0.841);
+ }
+ header{
+    text-transform: capitalize;
+ }
+ .search{
+    margin-left: 1300px;
+    position: relative;
+    bottom: 50px;
+
+ }
+ .buttonsearch{
+    margin-left: 1470px;
+    position: relative;
+    bottom: 70px;
+    border-radius: 20px;
+    color: rgb(18, 17, 17);
+    background-color:gray;
+ }
+ .kalki2898AD{
+    height: 300px;
+    width: 180px;
+    padding: 3px;
+    padding: 2px;
+    margin-right: 3px;
+    padding-bottom: 20px;
+    background: #000;
+    position:absolute;
+    left: 8px;
+    top:160px;
+ }
+ .k2898{
+    color: white;
+    top:430px;
+    font-size: smaller;
+    text-transform: capitalize;
+    text-align: center;
+
+ }
+ .malayaleefromindia{
+   height: 30px;
+   width: 180px;
+    padding: 2px;
+    padding-bottom: 290px;
+    background: #000;
+    position:absolute;
+    left: 200px;
+    top:160px;
+ }
+ .malayaleefromindia2024{
+    color: #ffffff;
+    font-size: smaller;
+    text-transform: capitalize;
+    text-align: center;
+    position: absolute;
+    top:286px;
+    left: 13px;
+ }
+   img{
+      cursor: pointer;
+   }
+}
