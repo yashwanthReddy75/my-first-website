@@ -123,4 +123,11 @@
       text-transform: capitalize;
       position: absolute;
      }
+      .downloadlinks{
+         color: black;
+         background-color: orangered;
+         border-radius: 3px;
+         position: absolute;
+         left: 60px;
+      }
    }
