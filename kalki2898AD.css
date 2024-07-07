@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-  body{
+    body{
      margin: 7px;
      background-color: gray;
     } 
@@ -77,10 +77,50 @@
      }
      .p{
       color: gray;
-      display: block;
-      margin-block-start: 1em;
-      margin-block-end: 1em;
-      margin-inline-start: 0px;
+      position: absolute;
+      top:690px;
+      left: 220px;
       
      }
-}
+     .kalki_info{
+      color:darkmagenta;
+      position: absolute ;
+      top:40px;
+      left:2px;
+      font-size: large;
+     }
+     .description{
+      margin-right: 260px;
+      float: inline-start;
+      font-size:large;
+     }
+     .player1{
+      font-size: x-large;
+      font-style: italic;
+      padding: 30px;
+      padding-right: 30%;
+      padding-bottom: 1px;
+      padding-top: 1px;
+      padding-inline: 200px;
+      color: palevioletred;
+      background-color: #000;
+      border-color: palevioletred;
+      text-transform: capitalize;
+       
+     }
+     .player2{
+      font-size: x-large;
+      font-style: italic;
+      padding: 30px;
+      padding-right: 20%;
+      padding-bottom: 1px;
+      padding-top: 2px;
+      padding-inline: 200px;
+      margin-left: 9px;
+      color: palevioletred;
+      background-color: #000;
+      border-color: palevioletred;
+      text-transform: capitalize;
+      position: absolute;
+     }
+   }
