@@ -19,10 +19,9 @@ header {
 .header_h1 h1 {
   padding: none;
   cursor: pointer;
+  margin-left: 5em;
 }
-.header_h1 hr {
-  border-color: gray;
-}
+
 /*
 header end's here
 */
@@ -59,23 +58,47 @@ nav start's here
 }
 /*
 nav end's here*/
+/* section start's here*/
+ section.homepage .telugulatest{
+  padding: 5px;
+  padding-right: 61%;
+  border-radius: 7px;
+  background-color: #000;
+  color: gray;
+  position: absolute;
+  top:50px;
+  left:220px;
+ }
 /*
 /*kalki2898AD img and paragraph start's here*/
+section.homepage{
+  padding-bottom: 50em;
+  margin-left: 11em;
+  border-radius: 2vh;
+  background-color: #989eae;
+}
 section.homepage .kalki2898AD img {
   padding: 3px;
-  padding-bottom: 55px;
+  margin-left: 6em;
+  padding-bottom: 45px;
   border-radius: 3px;
   cursor: pointer;
-  background-color: gray;
+  background-color:black;
   position: absolute;
-  top: 6em;
+  top: 8em;
   margin-right: 3px;
 }
 section.homepage .kalki2898AD p {
-  color: black;
+  color: gray;
+  text-align-last:left;
+  text-align:center;
+  padding-top: 0.5em;
+  margin-left: 15em;
+  font-size:small;
+  font-weight: 700;
   position: absolute;
-  top: 24em;
-  left: 8em;
+  top: 31.5em;
+  left: 13.5em;
   margin-right: 3px;
 }
 /* kalki2898AD img and paragraph end's's here*/
@@ -85,22 +108,29 @@ malayalee from india img and paragraph start's here
 */
 section.homepage .malayaleefromindia img{
   padding: 3px;
-  padding-bottom: 3.5em;
+  margin-left: 15em;
+  padding-bottom: 3em;
   cursor: pointer;
-  background-color: gray;
+  background-color: black;
   border-radius: 3px;
-  height: 40vh;
-  width: 12.5em;
+  height: 39.5vh;
+  width: 11em;
   position: absolute;
-  top:6em;
+  top:8em;
   left:20em;
 }
 section.homepage .malayaleefromindia p{
-  color: black;
+  color: gray;
+  font-weight: 700;
+  margin-left: 15em;
+  text-align:center;
+  font-size:smaller;
   position: absolute;
-  top:24em;
-  left: 20em;
+  top:31em;
+  left: 27.5em;
 }
 /*
 malayalee from india img and paragraph end's here
 */
+
+/* section end's here*/
