@@ -90,7 +90,17 @@ section.homepage .malayaleefromindia img{
   background-color: gray;
   border-radius: 3px;
   height: 40vh;
+  width: 12.5em;
   position: absolute;
   top:6em;
+  left:20em;
+}
+section.homepage .malayaleefromindia p{
+  color: black;
+  position: absolute;
+  top:24em;
   left: 20em;
 }
+/*
+malayalee from india img and paragraph end's here
+*/
