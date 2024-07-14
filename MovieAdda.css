@@ -69,14 +69,47 @@ nav end's here*/
   top:50px;
   left:220px;
  }
-/*
-/*kalki2898AD img and paragraph start's here*/
 section.homepage{
   padding-bottom: 50em;
   margin-left: 11em;
   border-radius: 2vh;
   background-color: #989eae;
 }
+/*
+Bharateeyudu 2 (2024) img and paragraph start's here
+*/
+section.homepage .Bharateeyudu2 img{
+  padding: 3px;
+  height:17.6em;
+  width:12em;
+  margin-left: 6em;
+  padding-bottom: 45px;
+  border-radius: 3px;
+  cursor: pointer;
+  background-color:black;
+  position: absolute;
+  top: 8em;
+  left: 41em;
+  margin-right: 3px;
+}
+section.homepage .Bharateeyudu2 p{
+  color: gray;
+  text-align-last:left;
+  text-align:center;
+  padding-top: 0.5em;
+  margin-left: 15em;
+  font-size:small;
+  font-weight: 700;
+  position: absolute;
+  top: 31.5em;
+  left: 44em;
+  margin-right: 3px;
+}
+/*    
+Bharateeyudu 2 (2024) img and paragraph start's here
+*/
+
+/*kalki2898AD img and paragraph start's here*/
 section.homepage .kalki2898AD img {
   padding: 3px;
   margin-left: 6em;
