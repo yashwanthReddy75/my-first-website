@@ -197,4 +197,44 @@ section.homepage .mirzapur3 p {
 /*
   Mirzapur Season 3 (2024) img and paragraph end's here
 */
+/* pattabhiraman(2024) paragraph and img start's here*/
+section.homepage .tamil h1{
+  padding: 0.5em;
+  padding-right: 53%;
+  padding-bottom: 4px;
+  padding-top: 4px;
+  background-color: #000;
+  color: gray;
+  border-radius: 8px;
+  position: absolute;
+  top: 20em;
+  left: 9em;
+}
+section.homepage .tamil img{
+  padding: 5px;
+  height: 40vh;
+  width: 11em;
+  margin-left: 6em;
+  padding-bottom: 45px;
+  border-radius: 3px;
+  cursor: pointer;
+  background-color: black;
+  position: absolute;
+  top: 34em;
+  left: 30vb;
+  margin-right: 3px;
+}
+section.homepage .tamil p{
+  color: gray;
+  font-weight: 700;
+  margin-left: 15em;
+  text-align: center;
+  font-size: smaller;
+  position: absolute;
+  top: 62.5em;
+  left: 8em;
+}
+
+/* pattabhiraman(2024) paragraph and img end's here*/
+
 /* section end's here*/
